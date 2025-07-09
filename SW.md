@@ -1,5 +1,5 @@
 ---
 itemId: some-unique-string-1234
-itemType: Requirement
+itemType: Document
 title: My Document Item in Git
 ---
