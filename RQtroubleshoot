@@ -1,0 +1,7 @@
+---
+itemType: Requirement
+Requirement type: Stakeholder requirement (user)
+context: Security
+---
+
+As a user, I expect private information to be stored securely and presented appropriately.
