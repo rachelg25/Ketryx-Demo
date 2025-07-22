@@ -1,7 +1,7 @@
 ---
-itemId: rq-test-user-type
+itemId: rq-functional-001
 itemType: Requirement
-Requirement type: Stakeholder requirement (user)
+Requirement type: Software requirement (user)
 syncToExternalSystem: false
-title: Requirement using USER-mapped type
----
+title: Functional Requirement - User Info Display
+context: UI
