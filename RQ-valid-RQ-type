@@ -1,8 +1,7 @@
 ---
-itemId: rq-valid-test-1234
+itemId: rq-test-user-type
 itemType: Requirement
-Requirement type: Software requirement (user)
+Requirement type: Stakeholder requirement (user)
 syncToExternalSystem: false
-title: My Requirement Item in Git
-context: Security
+title: Requirement using USER-mapped type
 ---
