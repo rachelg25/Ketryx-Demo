@@ -3,6 +3,8 @@ itemId: RQ-TEST-WORKING-TYPE
 itemType: Requirement
 Requirement type: Software requirement (user)
 context: Security
+syncToExternalSystem: false
+title:RQ-TEST-WORKING-TYPE
 ---
 
 This is a test to verify that the Requirement type displays correctly when using a mapped value.
