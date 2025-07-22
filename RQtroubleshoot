@@ -1,7 +1,8 @@
 ---
+itemId: RQ-TEST-MISSING-TYPE
 itemType: Requirement
 Requirement type: Stakeholder requirement (user)
 context: Security
 ---
 
-As a user, I expect private information to be stored securely and presented appropriately.
+This is a test to reproduce missing Requirement type due to an unmapped value.
