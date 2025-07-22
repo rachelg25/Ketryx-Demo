@@ -1,6 +1,6 @@
 ---
 itemId: some-unique-string-1234
-itemType: Document
-Document type: Pointwise Document
-title: My Document Item in Git
+itemType: Requirement
+Document type: Software requirement (user)
+title: Functional Requirement - Display User Info
 ---
