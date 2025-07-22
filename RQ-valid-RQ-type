@@ -1,8 +1,8 @@
 ---
-itemId: RQ-VALID-123
+itemId: rq-valid-test-1234
 itemType: Requirement
 Requirement type: Software requirement (user)
-context: Test
+syncToExternalSystem: false
+title: My Requirement Item in Git
+context: Security
 ---
-
-This is a clean working test.
