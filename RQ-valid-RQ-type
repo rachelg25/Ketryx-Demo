@@ -1,10 +1,8 @@
 ---
-itemId: RQ-TEST-WORKING-TYPE
+itemId: RQ-VALID-123
 itemType: Requirement
 Requirement type: Software requirement (user)
-context: Security
-syncToExternalSystem: false
-title:RQ-TEST-WORKING-TYPE
+context: Test
 ---
 
-This is a test to verify that the Requirement type displays correctly when using a mapped value.
+This is a clean working test.
