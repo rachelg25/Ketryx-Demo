@@ -1,8 +1,8 @@
 ---
-itemId: rq-stakeholder-001
+itemId: rq-example-001
 itemType: Requirement
-Requirement type: Stakeholder requirement (user)
-title: Stakeholder need for secure info
+Requirement type: Software requirement (user)
+title: Display User Info
 context: Security
 ---
-As a user, I expect private information to be stored securely and presented appropriately.
+The system shall display the user's full name and role after login.
