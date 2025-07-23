@@ -4,4 +4,4 @@ itemType: Requirement
 Requirement type: Stakeholder requirement (user)
 title: Display User Info
 ---
-The system shall display the user's full name and role after login.
+The system will display the user's full name and role after login.
