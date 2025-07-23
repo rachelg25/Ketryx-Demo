@@ -1,7 +1,7 @@
 ---
 itemId: RQ-TEST-MISSING-TYPE
 itemType: Requirement
-Requirement type: Stakeholder requirement (user)
+Requirement type: Software requirement (user)
 context: Security
 ---
 
