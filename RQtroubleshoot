@@ -2,7 +2,7 @@
 itemId: RQ-TEST-MISSING-TYPE
 itemType: Requirement
 Requirement type: Software requirement (user)
-context: Security
+Title: RQ Test
 ---
 
 This is a test to reproduce missing Requirement type due to an unmapped value.
