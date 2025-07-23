@@ -1,7 +1,7 @@
 ---
 itemId: rq-example-001
 itemType: Requirement
-Requirement type: Software requirement (user)
+Requirement type: SOFTWARE_IO
 title: Display User Info
 context: Security
 ---
