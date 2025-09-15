@@ -1,7 +1,7 @@
 ---
-itemId: some-unique-string-1234
-itemType: LLD
-Document type: Long-Lived Document(LLD)
+itemId: rq-example-001
+itemType: Requirement
+Requirement type: Stakeholder requirement
 syncToExternalSystem: true
 title: Document Test
 ---
