@@ -1,6 +1,6 @@
 ---
 itemId: some-unique-string-1234
-itemType: Document
+itemType: LLD
 Document type: Long-Lived Document(LLD)
 syncToExternalSystem: true
 title: Document Test
